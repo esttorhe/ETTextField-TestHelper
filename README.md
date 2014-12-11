@@ -1,7 +1,7 @@
 ETTextField-TestHelper
 ======================
 
-UITextField category with convenience methods for testing.
+`UITextField` category with convenience methods for testing.
 
 ------------------
 This category was primarily created due to [FBSnapshotTestCase](https://github.com/facebook/ios-snapshot-test-case) and [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) working together and "making some issues" or unexpected behaviors on the snapshots.
